@@ -1,4 +1,4 @@
-# rappid-tutorial-angular12
+# joint-Js-Sample
 
 This git repository is intended for instructional purposes. It is the source code that accompanies a Rappid blog post "Integration with Angular" which can be found [here](https://resources.jointjs.com/tutorial/angular).
 
