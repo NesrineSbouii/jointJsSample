@@ -24,7 +24,7 @@ git clone https://github.com/NesrineSbouii/jointJsSample.git
 Change into the `jointJsSample` directory.
 
 ```
-cd rappid-tutorial-angular12
+cd jointJsSample
 ```
 
 For this tutorial, you need to place your own `rappid.tgz` file in the root directory.
