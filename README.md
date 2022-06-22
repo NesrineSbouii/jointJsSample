@@ -18,10 +18,10 @@ Make sure you have the following dependencies installed on your system:
 Clone this repository.
 
 ```
-git clone git@github.com:clientIO/rappid-tutorial-angular12.git
+git clone https://github.com/NesrineSbouii/jointJsSample.git
 ```
 
-Change into the `rappid-tutorial-angular12` directory.
+Change into the `jointJsSample` directory.
 
 ```
 cd rappid-tutorial-angular12
